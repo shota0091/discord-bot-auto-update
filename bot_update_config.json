@@ -1,0 +1,14 @@
+{
+  "bots": [
+    {
+      "repo": "shota0091/discode_OdaiBot",
+      "name": "OdaiBot",
+      "update_script": "/home/shota/bots/update_odaibot.sh"
+    },
+    {
+      "repo": "shota0091/profileBot",
+      "name": "ProfileBot",
+      "update_script": "/home/shota/bots/update_profilebot.sh"
+    }
+  ]
+}
